@@ -23,6 +23,6 @@ Note:
 
 Requirements:
  
-1. To scrape and extract a dataset from the Twitter API, A Twitter developer account is required. 
+1. To scrape and extract a dataset from the Twitter API, a Twitter developer account is required. 
 2. Please visit - https://developer.twitter.com/en/docs/developer-portal/overview to create a Twitter Developer Account.
 3. In case there's no Twitter developer account existing, feel free to use our dataset or any available twitter dataset.
