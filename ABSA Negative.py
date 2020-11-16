@@ -27,9 +27,9 @@ from wordcloud import WordCloud, STOPWORDS
 
 
 consumer_key= ''
-consumer_secret= 'uFX7mMlo4TKccQBsDsIscWhBnx3S2gOtIzYTVd4E7pzn3Wsewc'
-access_token= '1294858760561688576-N1Q1ChvtP40BhlIyU1c3LjrGraNc4G'
-access_token_secret= 'sdYNwgEVeXNLA4KmRSqpum8DJYz2cyHaQqkQ9hUsRK5ID'
+consumer_secret= ''
+access_token= ''
+access_token_secret= ''
 
 try:
   auth = tw.OAuthHandler(consumer_key, consumer_secret)
