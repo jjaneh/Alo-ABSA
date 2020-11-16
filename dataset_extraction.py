@@ -33,6 +33,7 @@ Repeat this until process until requirement is satisfied.
 
 P.P.S - Initially we extracted 28053 tweets but we found that it wasnt fitting our requirement later on (for ABSA), so we had to reduce the tweets in the dataset to suit our requirements. 
 We recommend to check resources and requirements and change the parameters as required.
+We have added the dataset used for this project - final dataset.csv, please find it for reference if required.
 """
 
 len(tweets)
