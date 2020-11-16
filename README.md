@@ -18,7 +18,7 @@ Note:
 3. The Wordclouds depicted are heavily centered on the terms - ‘Coronavirus’ and ‘Covid-19’ as the aspect based analysis was done around these terms. The Wordclouds display data according to the user tweets and the analysis performed on it, we are not responsible for any racial slurs, hate speech, etc..,
 4. The Wordclouds appear slightly erratic as we have used a small dataset containing data from users worldwide hence, it is subjective to issues occurring in their country during the pandemic.
 5. This analysis can be further improved with the help of various machine learning and deep learning techniques. The data can be more refined and with the help of language processing techniques, this entire model can be modified to yield better results.
-6. This model can act as a guideline to build other supervised machine learning model
+6. This model can act as a guideline to build other supervised machine learning models.
 
 
 Requirements:
